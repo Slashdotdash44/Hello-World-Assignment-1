@@ -8,6 +8,6 @@
 #include "stdio.h"
 
 int main(void) {
-  printf("Alexander Javor Assignment one\n");
+  printf("Alexander Javor and Ryan Berry Assignment one\n");
   return 0;
 }
